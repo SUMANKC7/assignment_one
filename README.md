@@ -20,11 +20,6 @@ _buildOutgoingMessage(): Creates right-aligned message bubbles
 _buildIncomingMessage(): Creates left-aligned message bubbles with avatars
 _buildVoiceMessage(): Creates voice message bubbles with waveform
 
-Input Field
-
-TextField: Functional text input with controller
-Send Button: Teal circular button with send icon
-Additional Icons: Attachment, camera, and microphone icons
 
  UI Components Used
 
@@ -32,7 +27,6 @@ Scaffold: Main screen structure
 AppBar: Top navigation bar
 ListView: Scrollable message list
 Container: Custom styling and spacing
-TextField: Text input functionality
 CircleAvatar: User profile pictures
 Icon: Various interface icons
 Row/Column: Layout organization
