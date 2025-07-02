@@ -33,7 +33,7 @@ Row/Column: Layout organization
 
 Widget Tree
 <p align="center">
-  <img src="assets/images/image.png" width="200" />
+  <img src="assets/images/image.png" width="400" height="200" />
 </p>
 
 Assignment Submission
