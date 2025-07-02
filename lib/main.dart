@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       title: 'Chat UI',
       theme: ThemeData(
         primarySwatch: Colors.blue,
-        fontFamily: 'SF Pro Display',
+        
       ),
       home: ChatScreen(),
       debugShowCheckedModeBanner: false,
