@@ -31,6 +31,11 @@ CircleAvatar: User profile pictures
 Icon: Various interface icons
 Row/Column: Layout organization
 
+Widget Tree
+<p align="center">
+  <img src="assets/images/image.png" width="200" />
+</p>
+
 Assignment Submission
 This Flutter chat UI demonstrates:
 
